@@ -1,0 +1,6 @@
+OBJECTIVE of System :
+
+The Dairy2Door is a web application for Milk Management and Distribution System. There is subscription mode availaibility for customer, that means fixed customers with fix order.
+Dairy manages the products on monthly basis and distributer places order to dairy on monthly basis as well as payment is also done from customer to distributer and distributer to dairy.
+there is one more facility for customers to forward their complaints for resolving the same.
+
